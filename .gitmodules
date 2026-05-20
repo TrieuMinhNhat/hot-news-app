@@ -1,6 +1,6 @@
 [submodule "src/backend"]
 	path = src/backend
 	url = https://github.com/TrieuMinhNhat/news-app.git
-[submodule "src/front"]
-	path = src/front
+[submodule "src/frontend"]
+	path = src/frontend
 	url = https://github.com/TrieuMinhNhat/news-app-front-end.git
