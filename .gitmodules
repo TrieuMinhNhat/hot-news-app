@@ -7,3 +7,6 @@
 [submodule "references/Threads-Scraper"]
 	path = references/Threads-Scraper
 	url = https://github.com/Zeeshanahmad4/Threads-Scraper.git
+[submodule "references/news-crawler"]
+	path = references/news-crawler
+	url = https://github.com/haianh63/news-crawler.git
