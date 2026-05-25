@@ -4,3 +4,6 @@
 [submodule "src/frontend"]
 	path = src/frontend
 	url = https://github.com/TrieuMinhNhat/news-app-front-end.git
+[submodule "references/Threads-Scraper"]
+	path = references/Threads-Scraper
+	url = https://github.com/Zeeshanahmad4/Threads-Scraper.git
